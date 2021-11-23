@@ -8,7 +8,7 @@ function AgregarMenu(){
     menu.innerHTML = '<header class="header">'+
     '<nav class="navbar navbar-expand-lg navbar-light bg-light">'+
         '<div class="container-fluid">'+
-          '<a class="navbar-brand" href="/ProyectoConsumoAPIRest_G11_19/Home.html">'+
+          '<a class="navbar-brand" href="/Home.html">'+
             '<img src="https://www.unah.edu.hn/themes/portalunah/assets/images/logo-unah.png" alt="" width="60" height="48">'+
             'Grupo G11_19'+
           '</a>'+
@@ -18,14 +18,14 @@ function AgregarMenu(){
           '<div class="collapse navbar-collapse" id="navbarSupportedContent">'+
             '<ul class="navbar-nav me-auto mb-2 mb-lg-0">'+
               '<li class="nav-item">'+
-                '<a class="nav-link active" aria-current="page" href="/ProyectoConsumoAPIRest_G11_19/Informacion.html">Informacion</a>'+
+                '<a class="nav-link active" aria-current="page" href="/Informacion.html">Informacion</a>'+
               '</li>'+
               '<li class="nav-item dropdown">'+
                 '<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">'+
                   'Consumo APIs Rest'+
                 '</a>'+
                 '<ul class="dropdown-menu" aria-labelledby="navbarDropdown">'+
-                  '<li><a class="dropdown-item" href="/ProyectoConsumoAPIRest_G11_19/Forms/Socios.html">Socios de Negocio</a></li>'+
+                  '<li><a class="dropdown-item" href="/Forms/Socios.html">Socios de Negocio</a></li>'+
                   '<li><hr class="dropdown-divider"></li>'+
                   '<li><a class="dropdown-item" href="#"></a></li>'+
                 '</ul>'+
